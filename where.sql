@@ -111,4 +111,4 @@ SELECT
     category_name,
     ref_category_code
   FROM tbl_category
-WHERE ref_category_code IS NOT NULL;
+WHERE ref_category_code IS NOT NULL;	
